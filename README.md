@@ -1,4 +1,4 @@
-![Github Banner](https://raw.githubusercontent.com/SecurityTalent/SecurityTalent/refs/heads/main/fabebook%20banner.jpg)
+![Github Banner](https://raw.githubusercontent.com/SecurityTalent/SecurityTalent/refs/heads/main/banner.png)
 
 ## Front-End Developer | Penetration Tester (Web, API, App) | Malware Analyst
 
