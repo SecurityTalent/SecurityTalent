@@ -12,7 +12,6 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
 :e-mail: &emsp;How to reach me: devmehedi101@gmail.com.<br/>
-⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
 
 #### Things I code with
 
