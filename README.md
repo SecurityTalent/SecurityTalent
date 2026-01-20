@@ -4,8 +4,10 @@
 
 Front-End Developer specializing in React JS, skilled in crafting scalable, high-performance, and visually engaging user interfaces. Experienced in Cyber Security, with hands-on expertise in Penetration Testing (Web, API, App) and Malware Analysis, ensuring secure, reliable, and modern web applications.
 
-### 🏅 LeetCode Badges
+## 🧠 LeetCode Profile
+[![LeetCode Stats](https://leetcard.jacoblin.cool/securityTalent?theme=nord&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/securityTalent/)
 
+### 🏅 LeetCode Badges
 <p align="left">
   <a href="https://leetcode.com/u/securityTalent/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-130%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -17,8 +19,6 @@ Front-End Developer specializing in React JS, skilled in crafting scalable, high
     <img src="https://img.shields.io/badge/Streak-50%20Days-22C55E?style=for-the-badge"/>
   </a>
 </p>
-
-
 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Securi3ytalent)
@@ -41,4 +41,20 @@ Front-End Developer specializing in React JS, skilled in crafting scalable, high
 
 #### Things I code with
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+[![Material UI Badge](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](#)
+[![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
+[![jQuery UI Badge](https://img.shields.io/badge/jQuery_UI-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
+[![DaisyUI Badge](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)](#)
+
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+
