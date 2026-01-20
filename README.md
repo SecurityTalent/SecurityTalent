@@ -22,6 +22,16 @@ Front-End Developer specializing in React JS, skilled in crafting scalable, high
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 :e-mail: &emsp;How to reach me: devmehedi101@gmail.com.<br/>
 
+### 💼 Freelancing
+<p align="left">
+  <a href="https://www.upwork.com/freelancers/~015950f0cd4ce4341e" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~015950f0cd4ce4341e" target="_blank">
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge"/>
+  </a>
+</p>
+
 ## 🧠 LeetCode Profile
 [![LeetCode Stats](https://leetcard.jacoblin.cool/securityTalent?theme=nord&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/securityTalent/)
 
@@ -37,27 +47,6 @@ Front-End Developer specializing in React JS, skilled in crafting scalable, high
     <img src="https://img.shields.io/badge/Streak-50%20Days-22C55E?style=for-the-badge"/>
   </a>
 </p>
-
-### 💼 Freelancing
-
-<p align="left">
-  <a href="https://www.upwork.com/freelancers/~015950f0cd4ce4341e" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Senior%20Freelancer-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.upwork.com/freelancers/~015950f0cd4ce4341e" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~015950f0cd4ce4341e" target="_blank">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge"/>
-  </a>
-</p>
-
-
-
-
 
 #### Things I code with
 
