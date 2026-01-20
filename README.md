@@ -4,11 +4,20 @@
 
 Front-End Developer specializing in React JS, skilled in crafting scalable, high-performance, and visually engaging user interfaces. Experienced in Cyber Security, with hands-on expertise in Penetration Testing (Web, API, App) and Malware Analysis, ensuring secure, reliable, and modern web applications.
 
-## 🧠 LeetCode Profile
+### 🏅 LeetCode Badges
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/securityTalent?theme=dark&font=Karma&ext=contest)
+<p align="left">
+  <a href="https://leetcode.com/u/securityTalent/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-130%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://leetcode.com/u/securityTalent/" target="_blank">
+    <img src="https://img.shields.io/badge/Global%20Rank-1.1M-4F46E5?style=for-the-badge"/>
+  </a>
+  <a href="https://leetcode.com/u/securityTalent/" target="_blank">
+    <img src="https://img.shields.io/badge/Streak-50%20Days-22C55E?style=for-the-badge"/>
+  </a>
+</p>
 
-🔗 **Profile:** https://leetcode.com/u/securityTalent/
 
 
 
