@@ -38,6 +38,16 @@ Front-End Developer specializing in React JS, skilled in crafting scalable, high
   </a>
 </p>
 
+### 💼 Freelancing
+
+<p align="left">
+  <a href="https://www.upwork.com/freelancers/~015950f0cd4ce4341e" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Senior%20Freelancer-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+</p>
+
+
+
 
 #### Things I code with
 
