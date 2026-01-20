@@ -1,4 +1,4 @@
-![Github Banner](https://miro.medium.com/v2/resize:fit:1936/1*VRAEgZ86wtqgTtlaPPpCPQ.png)
+![Github Banner](https://raw.githubusercontent.com/SecurityTalent/SecurityTalent/refs/heads/main/Security-Talent-Banner-Github.png)
 
 ## Front-End Developer | Penetration Tester (Web, API, App) | Malware Analyst
 
