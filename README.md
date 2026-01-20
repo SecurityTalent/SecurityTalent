@@ -61,6 +61,8 @@ Front-End Developer specializing in React JS, skilled in crafting scalable, high
 [![DaisyUI Badge](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)](#)
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
+[![Redux Toolkit Badge](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#)
 
