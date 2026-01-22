@@ -15,6 +15,7 @@ Front-End Developer specializing in React JS, skilled in crafting scalable, high
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@securitytalent)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19865785/securitytalent)
 [![daily.dev Badge](https://img.shields.io/badge/Daily.dev-1A1A1A?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/securitytalent)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@securityTalent)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmehedi101@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@securitytalent)
 
