@@ -74,5 +74,6 @@ Front-End Developer specializing in React JS, skilled in crafting scalable, high
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-202020?style=for-the-badge&logo=kalilinux&logoColor=white)](#)
+[![Flare VM](https://img.shields.io/badge/Flare%20VM-0D6EFD?style=for-the-badge&logo=windows&logoColor=white)](#)
 
 
