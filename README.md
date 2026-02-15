@@ -23,6 +23,13 @@ Front-End Developer specializing in React JS, skilled in crafting scalable, high
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 :e-mail: &emsp;How to reach me: devmehedi101@gmail.com.<br/>
 
+### 📦 NPM Packages
+<p align="left">
+  <a href="https://www.npmjs.com/~securitytalent" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-View%20My%20Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  </a>
+</p>
+
 ### 💼 Freelancing
 <p align="left">
   <a href="https://www.upwork.com/freelancers/~015950f0cd4ce4341e" target="_blank">
