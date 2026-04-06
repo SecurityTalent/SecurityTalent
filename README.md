@@ -15,49 +15,50 @@ Site  ──  https://securitytalent.net
 ## `$ cat links.cfg`
 
 <p align="center">
-  <a href="https://www.facebook.com/Securi3ytalent">
+  <a href="https://www.facebook.com/Securi3ytalent" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@SecurityTalent">
+  <a href="https://www.youtube.com/@SecurityTalent" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/devsecmehedi">
+  <a href="https://www.linkedin.com/in/devsecmehedi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/Securi3ytalent">
+  <a href="https://instagram.com/Securi3ytalent" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/Securi3yTalent">
+  <a href="https://twitter.com/Securi3yTalent" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.threads.com/@securi3ytalent">
+  <a href="https://www.threads.com/@securi3ytalent" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
-  <a href="https://t.me/Securi3yTalent">
+  <a href="https://t.me/Securi3yTalent" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://mastodon.social/@securitytalent">
+  <a href="https://mastodon.social/@securitytalent" target="_blank">
     <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/19865785/securitytalent">
+  <a href="https://stackoverflow.com/users/19865785/securitytalent" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
-  <a href="https://app.daily.dev/securitytalent">
+  <a href="https://app.daily.dev/securitytalent" target="_blank">
     <img src="https://img.shields.io/badge/Daily.dev-1A1A1A?style=for-the-badge&logo=daily.dev&logoColor=white" />
   </a>
-  <a href="https://hashnode.com/@securityTalent">
+  <a href="https://hashnode.com/@securityTalent" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="mailto:devmehedi101@gmail.com">
+  <a href="mailto:devmehedi101@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!-- <a href="https://medium.com/@securitytalent">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a> -->
 
- <a href="securitytalent.medium.com">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+<a href="https://securitytalent.medium.com" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
           
 </p>
 
