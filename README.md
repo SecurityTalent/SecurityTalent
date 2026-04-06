@@ -1,4 +1,4 @@
-![Github Banner](https://raw.githubusercontent.com/securi3ytalent/securi3ytalent/refs/heads/main/Security-Talent-Banner-Github.png)
+![Github Banner](https://raw.githubusercontent.com/SecurityTalent/SecurityTalent/refs/heads/main/Security-Talent-Banner-Github.png)
 
 ## `$ cat whoami.txt`
 
